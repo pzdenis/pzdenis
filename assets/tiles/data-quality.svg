@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="184" viewBox="0 0 600 184" role="img" aria-labelledby="title desc">
+  <title id="title">DATA QUALITY</title>
+  <desc id="desc">Regeln / Checks / Financial Data</desc>
+  <!-- Shared palette with header.svg; no external resources. -->
+  <rect width="600" height="184" rx="12" fill="#2E2E40"/>
+  <rect x="0.75" y="0.75" width="598.5" height="182.5" rx="11.25" fill="none" stroke="#414653" stroke-width="1.5"/>
+  <path d="M32 33H460" stroke="#414653"/>
+  <path d="M32 33H80" stroke="#A5D96A" stroke-width="3"/>
+  <g fill="none" stroke="#B5D98A" stroke-width="3" stroke-linejoin="miter" transform="translate(520 45)">
+    <path d="M0 6H10V16H0Z M20 11H48 M0 27H10V37H0Z M20 32H48 M1 50L6 55L14 44 M20 51H48"/>
+  </g>
+  <text x="32" y="88" fill="#C5D8A5" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="28" font-weight="700" letter-spacing="1">DATA QUALITY</text>
+  <text x="32" y="126" fill="#B6D98A" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="18">Regeln / Checks / Financial Data</text>
+  <g>
+    <path d="M32 157H44" stroke="#C5D8A5" stroke-width="4"/>
+    <path d="M44 157H56" stroke="#A5D96A" stroke-width="4"/>
+    <path d="M56 157H68" stroke="#84A75C" stroke-width="4"/>
+    <path d="M68 157H80" stroke="#566C40" stroke-width="4"/>
+  </g>
+</svg>

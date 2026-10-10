@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">pzdenis — INITIALIZING REPOSITORY</title>
+  <desc id="desc">Custom condensed arcade lettering with stepped green shading on a dark indigo background.</desc>
+  <!-- Palette sampled visually from the supplied reference. Duplicate stops
+       create hard horizontal bands rather than a smooth gradient. -->
+  <defs>
+    <linearGradient id="logo-green" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="177">
+      <stop offset="0" stop-color="#C5D8A5"/>
+      <stop offset="0.25" stop-color="#C5D8A5"/>
+      <stop offset="0.25" stop-color="#B5D98A"/>
+      <stop offset="0.42" stop-color="#B5D98A"/>
+      <stop offset="0.42" stop-color="#A5D96A"/>
+      <stop offset="0.61" stop-color="#A5D96A"/>
+      <stop offset="0.61" stop-color="#84A75C"/>
+      <stop offset="0.79" stop-color="#84A75C"/>
+      <stop offset="0.79" stop-color="#566C40"/>
+      <stop offset="1" stop-color="#566C40"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#2E2E40"/>
+  <g fill="none" stroke="#414653" stroke-width="1.5">
+    <path d="M40 66V40H66 M1134 40H1160V66 M40 294V320H66 M1134 320H1160V294"/>
+    <path d="M88 286H266 M934 286H1112"/>
+  </g>
+  <!-- Custom condensed arcade wordmark. A common vertical rhythm ties together
+       asymmetric shoulders, slit counters and selective angular junctions.
+       Coordinates are local to each glyph; the dark olive contour is deliberately light. -->
+  <g transform="translate(417.675 81.4875) scale(0.825)" fill="url(#logo-green)" stroke="#64794C" stroke-width="0.8" stroke-linejoin="miter" fill-rule="evenodd" aria-label="pzdenis">
+    <!-- p: inset crown, tall slit and extended left rail -->
+    <path d="M0 12H12V4H46V12H58V98H48V108H17V177H0ZM17 23V89H40V23Z"/>
+    <!-- z: narrow diagonal bridge between long horizontal terminals -->
+    <path transform="translate(68)" d="M0 4H58V27L20 126V141H58V160H0V136L38 37V23H0Z"/>
+    <!-- d: raised right rail with a recessed left shoulder -->
+    <path transform="translate(136)" d="M40 0H58V160H12V152H0V42H12V34H40ZM18 53V141H40V53Z"/>
+    <!-- e: high slit counter and a projecting middle shelf -->
+    <path transform="translate(204)" d="M12 4H58V77L45 90H18V141H58V160H12V152H0V12H12ZM18 23V71H34L40 65V23Z"/>
+    <!-- n: notched crown, continuous outer rails, narrow open channel -->
+    <path transform="translate(272)" d="M0 160V12H12V4H46V12H58V160H40V23H18V160Z"/>
+    <!-- i: offset cap and stepped foot instead of a generic rectangular stem -->
+    <path transform="translate(340)" d="M8 4H26V24H8ZM0 37H26V141H34V160H0V141H8V55H0Z"/>
+    <!-- s: diagonal centre joint, tall opposing recesses, cut-back terminals -->
+    <path transform="translate(384)" d="M12 4H58V23H18V65L46 78H58V152H46V160H0V141H40V96L12 83H0V12H12Z"/>
+  </g>
+  <text x="600" y="291" text-anchor="middle" fill="#B6D98A" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="16" font-weight="400" letter-spacing="4">INITIALIZING REPOSITORY</text>
+</svg>
