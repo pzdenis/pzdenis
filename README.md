@@ -1,4 +1,4 @@
-![pzdenis — INITIALIZING REPOSITORY](assets/header.svg)
+
 
 ## About / Über mich
 
